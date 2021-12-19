@@ -1,0 +1,34 @@
+{
+        "prefix":"x", 
+        "token":"OTA1NDAyNzI2NTk3NDIzMTA0.YYJj_w.WfO-oXGCIZZmqx1R4ReGrhZ35AM",
+        "footer": "Louppocrit",
+        "ownerID": "665855457310539817",
+        "ownerID2": "854622242155921418",
+        "color": {
+            "bot": "#ff0000",
+            "rouge": "#ff3d3d",
+            "vert": "",
+            "embed": "#ff0000"
+        },
+        "emoji": {
+        "succes": "<:succes:873926482332909618>",
+        "error": "<:error:873926553719959573>",
+        "warn": "<:warn:873926796909903882>",
+        "idle": "<:idle:873927001470287953>",
+        "online": "<:online:873926900358213633>",
+        "offline": "<:offline:873927328974114926>",
+        "dnd": "<:dnd:873927126431174656>",
+        "off": "<:disable:873927466836713473>",
+        "on": "<:enable:873928198017151106>"
+    },
+        "version": "1.0.2",
+        "welcomech": "8623up2LUkDvHGjg",
+        "emojis": {
+            "play": "▶️",
+            "stop": "⏹️",
+            "queue": "📄",
+            "success": "☑️",
+            "repeat": "🔁",
+            "error": "❌"
+        }
+}
