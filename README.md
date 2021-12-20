@@ -6,9 +6,7 @@ Ou ajoutez : " Héréditaire AS#2519
 
 Terminal : npm i
 
-Terminal : npm i --s discord.js
-
-Terminal : npm i --s discord.js
+Terminal : npm i discord.js
 
 Terminal : npm i
 
