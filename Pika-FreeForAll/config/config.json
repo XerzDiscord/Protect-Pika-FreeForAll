@@ -1,9 +1,9 @@
 {
-        "prefix":"x", 
-        "token":"OTA1NDAyNzI2NTk3NDIzMTA0.YYJj_w.WfO-oXGCIZZmqx1R4ReGrhZ35AM",
-        "footer": "Louppocrit",
-        "ownerID": "665855457310539817",
-        "ownerID2": "854622242155921418",
+        "prefix":"YOURPREFIX", 
+        "token":"YOURTOKEN",
+        "footer": "Pika Bot",
+        "ownerID": "OWNERID1",
+        "ownerID2": "OWNERID2",
         "color": {
             "bot": "#ff0000",
             "rouge": "#ff3d3d",
